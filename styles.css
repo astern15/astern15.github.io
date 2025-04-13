@@ -35,7 +35,7 @@ header {
   background: linear-gradient(135deg, var(--primary), var(--secondary));
   color: white;
   text-align: center;
-  padding: 4rem 2rem;
+  padding: 2rem 2rem;
   position: relative;
   box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
 }
@@ -81,7 +81,7 @@ header p {
 }
 
 section {
-  padding: 4rem 2rem;
+  padding: 2rem 2rem;
   max-width: 1100px;
   margin: auto;
 }
