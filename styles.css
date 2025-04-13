@@ -2,10 +2,6 @@
 
 /* Base styles */
 body {
-  background-color: yellow !important;
-}
-
-body {
   margin: 0;
   font-family: 'Segoe UI', sans-serif;
   background-color: #ffffff;
